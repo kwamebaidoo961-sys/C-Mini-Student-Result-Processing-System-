@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "C-Mini-Student-Result-Processing-System-/1.0.0": {
+        "runtime": {
+          "C-Mini-Student-Result-Processing-System-.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C-Mini-Student-Result-Processing-System-/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

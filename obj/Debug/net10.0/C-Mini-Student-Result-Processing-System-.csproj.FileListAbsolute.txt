@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\EvansObu\assignent\C-Mini-Student-Result-Processing-System-\bin\Debug\net10.0\C-Mini-Student-Result-Processing-System-.exe
+C:\Users\USER\Desktop\EvansObu\assignent\C-Mini-Student-Result-Processing-System-\bin\Debug\net10.0\C-Mini-Student-Result-Processing-System-.deps.json
+C:\Users\USER\Desktop\EvansObu\assignent\C-Mini-Student-Result-Processing-System-\bin\Debug\net10.0\C-Mini-Student-Result-Processing-System-.runtimeconfig.json
+C:\Users\USER\Desktop\EvansObu\assignent\C-Mini-Student-Result-Processing-System-\bin\Debug\net10.0\C-Mini-Student-Result-Processing-System-.dll
+C:\Users\USER\Desktop\EvansObu\assignent\C-Mini-Student-Result-Processing-System-\bin\Debug\net10.0\C-Mini-Student-Result-Processing-System-.pdb
+C:\Users\USER\Desktop\EvansObu\assignent\C-Mini-Student-Result-Processing-System-\obj\Debug\net10.0\C-Mini-Student-Result-Processing-System-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\EvansObu\assignent\C-Mini-Student-Result-Processing-System-\obj\Debug\net10.0\C-Mini-Student-Result-Processing-System-.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\EvansObu\assignent\C-Mini-Student-Result-Processing-System-\obj\Debug\net10.0\C-Mini-Student-Result-Processing-System-.AssemblyInfo.cs
+C:\Users\USER\Desktop\EvansObu\assignent\C-Mini-Student-Result-Processing-System-\obj\Debug\net10.0\C-Mini-Student-Result-Processing-System-.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EvansObu\assignent\C-Mini-Student-Result-Processing-System-\obj\Debug\net10.0\C-Mini-Student-Result-Processing-System-.sourcelink.json
+C:\Users\USER\Desktop\EvansObu\assignent\C-Mini-Student-Result-Processing-System-\obj\Debug\net10.0\C-Mini-Student-Result-Processing-System-.dll
+C:\Users\USER\Desktop\EvansObu\assignent\C-Mini-Student-Result-Processing-System-\obj\Debug\net10.0\refint\C-Mini-Student-Result-Processing-System-.dll
+C:\Users\USER\Desktop\EvansObu\assignent\C-Mini-Student-Result-Processing-System-\obj\Debug\net10.0\C-Mini-Student-Result-Processing-System-.pdb
+C:\Users\USER\Desktop\EvansObu\assignent\C-Mini-Student-Result-Processing-System-\obj\Debug\net10.0\C-Mini-Student-Result-Processing-System-.genruntimeconfig.cache
+C:\Users\USER\Desktop\EvansObu\assignent\C-Mini-Student-Result-Processing-System-\obj\Debug\net10.0\ref\C-Mini-Student-Result-Processing-System-.dll
